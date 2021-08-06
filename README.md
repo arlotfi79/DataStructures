@@ -1,6 +1,6 @@
 # Data Structure  
 This project was designed by [**Dr. Hossein Esfandiari**](https://sites.google.com/view/hossein-esfandiari)
-for the Data Structure course (Spring 2021).
+for the Data Structures course (Spring 2021).
 
 ## Description
 The goal of this project is to develop a system that maintains and processes patients’
