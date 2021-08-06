@@ -1,0 +1,100 @@
+Input 1:
+Add 8 3
+Add 5 -12
+Add 9 6
+Serve First
+Serve First
+Serve First
+
+Output 1:
+8 3
+5 -12
+9 6
+--------------------
+Input 2:
+Add 8 3
+Add 5 -12
+Add 9 6
+Update 9 -5
+Update 8 7
+Serve First
+Serve First
+Serve First
+
+Output 2:
+8 7
+5 -12
+9 -5
+--------------------
+Input 3:
+Add 2 3
+Add 5 -12
+Add 9 6
+Add 6 -2
+Serve Sickest
+Serve Sickest
+Serve Sickest
+Serve Sickest
+
+Output 3:
+5 -12
+6 -2
+2 3
+9 6
+--------------------
+Input 4:
+Add 2 3
+Add 5 -12
+Add 9 6
+Update 9 5
+Update 5 7 
+Update 2 1
+Serve Sickest
+Serve Sickest
+Serve Sickest
+
+Output 4:
+2 1
+9 5 
+5 7
+----------------
+Input 5:
+Add 2 3
+Add 5 -12
+Add 9 6
+Add 6 -2
+Serve Sickest
+Serve First
+Serve Sickest
+Serve First
+
+Output 5:
+5 -12
+2 3
+6 -2
+9 6
+---------------------
+Input 6:
+Add 12345678 5
+Add 87654321 3
+Update 87654321 6
+Update 12345678 4
+Serve First
+Serve First
+
+Output 6:
+12345678 4
+87654321 6
+----------------------------
+Input 7:
+See TB2.txt
+
+Output 7:
+705000000 203527590
+855000003 -608029952
+------------------------------
+Input 8:
+See TB3.txt
+
+Output 8:
+705000000 0 
