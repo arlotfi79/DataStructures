@@ -55,7 +55,7 @@ served is not limited.
 
 * The overall Design of the system is also as follows:  
 
-![Final Design](/home/arlotfi79/Programming/IntellijProjects/DSProject2/Documents/FinalDesign.png)  
+![Final Design](Documents/FinalDesign.png)
 
 * Test case are provided in the Documents' folder of the repository.
 
