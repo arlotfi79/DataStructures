@@ -1,8 +1,8 @@
-#Data Structure  
+# Data Structure  
 This project was designed by [**Dr. Hossein Esfandiari**](https://sites.google.com/view/hossein-esfandiari)
 for the Data Structure course (Spring 2021).
 
-##Description
+## Description
 The goal of this project is to develop a system that maintains and processes patients’
 information. For each patient we have a unique patient ID which is a positive integer (between 0
 and 10^9), and a health measure which is an integer (between -10^9 and 10^9). Design and
@@ -33,7 +33,7 @@ served is not limited.
 * Hint 1: you need to use multiple data structures.  
 * Hint 2: you do not need red-black tree.
 
-##Implementation
+## Implementation
 * Multiple data structures have been used in this project which will be discussed:
     * Entry<ID, Health> regarding the Composition design pattern to ease the implementation of the queries.
     * A simple ArrayList which is used for implementing the Heap.
